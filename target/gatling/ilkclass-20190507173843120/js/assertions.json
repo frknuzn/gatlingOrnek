@@ -1,0 +1,10 @@
+{
+  "simulation": "ilkPaketim.ilkClass",
+  "simulationId": "ilkclass",
+  "start": 1557250723120,
+  "description": "",
+  "scenarios": ["viewCruise"],
+  "assertions": [
+
+  ]
+}
